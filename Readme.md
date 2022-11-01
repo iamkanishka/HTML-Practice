@@ -22,3 +22,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 4. HTML Attributes | Boolean Attributes. Learn about the Attribute names and attribute values - HTML
 5. Understand the HTML Page Document Structure like Doctype, Html, Head, Title - HTML.
 6. Understand about HTML Entities for Special characters in Content | Writing HTML Comments - HTML
+7. Metadata in HTML | Learn different Metadata Elements used in Head Element - HTML
