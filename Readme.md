@@ -24,4 +24,6 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 6. Understand about HTML Entities for Special characters in Content | Writing HTML Comments - HTML
 7. Metadata in HTML | Learn different Metadata Elements used in Head Element - HTML
 8. HTML Text Formatting using Heading and Paragraph Elements - HTML
-9. HTML Lists | Unordered Lists (ul Element) vs Ordered Lists (li Element). Nested Lists in HTML
+9. HTML Lists | Unordered Lists (ul Element) vs Ordered Lists (li Element). Nested Lists in HTML.
+10. Emphasizing the Text using Emphasis em Element and Strong Element - HTML
+
