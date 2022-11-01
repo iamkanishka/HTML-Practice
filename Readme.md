@@ -23,3 +23,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 5. Understand the HTML Page Document Structure like Doctype, Html, Head, Title - HTML.
 6. Understand about HTML Entities for Special characters in Content | Writing HTML Comments - HTML
 7. Metadata in HTML | Learn different Metadata Elements used in Head Element - HTML
+8. HTML Text Formatting using Heading and Paragraph Elements - HTML
