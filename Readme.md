@@ -19,3 +19,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 1. Introduction to HTML Hyper Text Markup Language - HTML
 2. Learn HTML Element Structure, Content, Tags, Nesting Elements & Empty Elements - HTML
 3. Block Elements vs Inline Elements and the difference between the two categories- HTML
+4. HTML Attributes | Boolean Attributes. Learn about the Attribute names and attribute values - HTML
