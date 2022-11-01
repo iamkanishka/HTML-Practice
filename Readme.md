@@ -20,4 +20,5 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 2. Learn HTML Element Structure, Content, Tags, Nesting Elements & Empty Elements - HTML
 3. Block Elements vs Inline Elements and the difference between the two categories- HTML
 4. HTML Attributes | Boolean Attributes. Learn about the Attribute names and attribute values - HTML
-5. Understand the HTML Page Document Structure like Doctype, Html, Head, Title - HTML
+5. Understand the HTML Page Document Structure like Doctype, Html, Head, Title - HTML.
+6. Understand about HTML Entities for Special characters in Content | Writing HTML Comments - HTML
