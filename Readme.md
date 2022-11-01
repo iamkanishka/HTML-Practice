@@ -26,4 +26,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 8. HTML Text Formatting using Heading and Paragraph Elements - HTML
 9. HTML Lists | Unordered Lists (ul Element) vs Ordered Lists (li Element). Nested Lists in HTML.
 10. Emphasizing the Text using Emphasis em Element and Strong Element - HTML
-
+11. Italic i Element, Bold b Element, Underline u Element for formatting Text in HTML
