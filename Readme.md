@@ -30,3 +30,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 12. Creating Hyperlinks using a Element and its attributes href ( Hyper Text Reference ) - HTML
 13. Hyper Links URL Paths. Absolute Path vs Relative Path for adding in the href attribute - HTML
 14. Description Lists in HTML. Understand about dl, dt, dd elements in HTML
+15. BlockQuote and q Element with Cite Attribute for showing quotations in the HTML Content - HTML
