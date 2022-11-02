@@ -33,3 +33,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 15. BlockQuote and q Element with Cite Attribute for showing quotations in the HTML Content - HTML
 16. Represent Programming Code with HTML Elements like Code, Pre, kbd, var and Samp Elements - HTML
 17. Creating HyperLinks with A Element, href, title attributes for navigating between pages - HTML
+18. Absolute vs Relative URL Paths. Add Url paths and the Document Fragment in href attribute - HTML
