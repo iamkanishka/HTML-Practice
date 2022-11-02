@@ -35,3 +35,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 17. Creating HyperLinks with A Element, href, title attributes for navigating between pages - HTML
 18. Absolute vs Relative URL Paths. Add Url paths and the Document Fragment in href attribute - HTML
 19. Understand Website Structure and Sections of Webpage like Header, Navbar, Main, Footer - HTML
+20. Practical Implementation of the HTML Layout Elements for Structuring Webpage Content - HTML
