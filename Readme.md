@@ -38,3 +38,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 20. Practical Implementation of the HTML Layout Elements for Structuring Webpage Content - HTML
 21. Debugging HTML when errors encountered. Validate HTML Document using HTML Validator tool
 22. Embed Images in the HTML using IMG Element and its attributes like src, alt and title - HTML
+23. Annotating Images with title using figure and figcaption elements - HTML
