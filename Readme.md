@@ -44,3 +44,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 26. Adding Audio Content in HTML Document using Audio element and its attributes - HTML
 27. History of Iframe, Object & Embed Other embedding technologies - HTML
 28. Embed third party websites using Iframe Element and its attributes - HTML
+29. Introduction to Vector Graphics. Advantages of using SVG images over png Images - HTML
