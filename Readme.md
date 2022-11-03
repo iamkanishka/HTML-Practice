@@ -40,3 +40,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 22. Embed Images in the HTML using IMG Element and its attributes like src, alt and title - HTML
 23. Annotating Images with title using figure and figcaption elements - HTML
 24. Adding Videos in the HTML using video and Source Elements with src and type attributes - HTML
+25. Adding Video Features like autoplay, loop, muted, poster & preload for the Video element - HTML
