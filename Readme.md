@@ -49,3 +49,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 31. Add Responsive Images using HTML IMG element, src, srcset and sizes
 32. Create Simple Html Table to show tabular data in Webpage using Table, tr, td, th elements - HTML
 33. Understand RowSpan, ColSpan attributes or collapsing rows and columns in HTML Table - HTML
+34. ColGroup and Col Elements in HTML table - HTML
