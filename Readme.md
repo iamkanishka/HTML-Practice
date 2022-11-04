@@ -46,3 +46,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 28. Embed third party websites using Iframe Element and its attributes - HTML
 29. Introduction to Vector Graphics. Advantages of using SVG images over png Images - HTML
 30. Different ways of adding SVG Image in the HTML Document using img, iframe element - HTML
+31. Add Responsive Images using HTML IMG element, src, srcset and sizes
