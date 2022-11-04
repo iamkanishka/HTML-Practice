@@ -10,23 +10,40 @@
 
 <body>
     <form action="" method="get">
-        <fieldset disabled>
 
-        <fieldset disabled>
-            <legend>Personlal Details</legend>
+
+        <fieldset >
+            <legend>Contact Form</legend>
 
             <p>
-                <label for="name">Name:</label>
-                <input type="text" name="" id="">
+                <label  for="name">Name:</label>
+                <input type="text" name="" id="name">
+              
 
             </p>
             <p>
                 <label for="email">Email:</label>
-                <input type="email" name="" id="">
+                <input type="email" name="" id="email">
+                <label for="email"><abbr title="required" aria-label="required">*</abbr></label>
+
+            </p>
+
+            <p>
+                <label for="firstName">First Name:
+                    <input type="text" id="firstName">
+                    <abbr title="required" aria-label="required">*</abbr>
+                </label>
+            </p>
+
+            <p>
+                <label for="phone">Phone<abbr title="required" aria-label="required">*</abbr></label>
+
+                    <input type="text" id="phone">
+
             </p>
         </fieldset>
 
-        <fieldset >
+        <!-- <fieldset>
             <legend>Address Details</legend>
 
             <p>
@@ -38,9 +55,7 @@
                 <label for="pin">Pincode:</label>
                 <input type="text" name="" id="">
             </p>
-        </fieldset>
-    </fieldset>
-
+        </fieldset> -->
 
     </form>
 </body>
