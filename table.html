@@ -1,64 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-  </head>
-  <body>
+</head>
+
+<body>
+    <p>Personal Details</p>
     <table border="1" cellspacing="0" width="100%">
+        <caption>Personla Details</caption>
         <colgroup>
-        <!-- <col />
+            <!-- <col />
         <col  style="background-color: royalblue;"/>
         <col />
         <col /> -->
-        <col  style="background-color: yellow;" span="2"/>
+            <col style="background-color: yellow;" span="2" />
 
         </colgroup>
-      <tr>
-        <th colspan="2">Full Name</th>
-        <th>Age</th>
-        <th>Country</th>
-        <th>Income</th>
-      </tr>
+        <thead>
+            <tr>
+                <th colspan="2">Full Name</th>
+                <th>Age</th>
+                <th>Country</th>
+                <th>Income</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">First Name 1</td>
+                <td>Last Name 1</td>
+                <td>25</td>
+                <td>USA</td>
+                <td>$1000</td>
+            </tr>
+            <tr>
+                <td>Last Name 2</td>
+                <td>30</td>
+                <td>UK</td>
+                <td>$1000</td>
+            </tr>
+            <tr>
+                <td>First Name 3</td>
+                <td>Last Name 3</td>
+                <td>36</td>
+                <td rowspan="3">India</td>
+                <td>$1000</td>
+            </tr>
+            <tr>
+                <td>First Name 4</td>
+                <td>Last Name 4</td>
+                <td>36</td>
+                <td>$1000</td>
+            </tr>
+            <tr>
+                <td>First Name 5</td>
+                <td>Last Name 5</td>
+                <td>36</td>
+                <td>$1000</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="4">Total Income Count</td>
+                <td>$5000</td>
+            </tr>
+        </tfoot>
 
-      <tr>
-        <td rowspan="2">First Name 1</td>
-        <td>Last Name 1</td>
-        <td>25</td>
-        <td>USA</td>
-        <td>$1000</td>
-      </tr>
-      <tr>
-        <td>Last Name 2</td>
-        <td>30</td>
-        <td>UK</td>
-        <td>$1000</td>
-      </tr>
-      <tr>
-        <td>First Name 3</td>
-        <td>Last Name 3</td>
-        <td>36</td>
-        <td rowspan="3">India</td>
-        <td>$1000</td>
-      </tr>
-      <tr>
-        <td>First Name 4</td>
-        <td>Last Name 4</td>
-        <td>36</td>
-        <td>$1000</td>
-      </tr>
-      <tr>
-        <td>First Name 5</td>
-        <td>Last Name 5</td>
-        <td>36</td>
-        <td>$1000</td>
-      </tr>
-      <tr>
-        <td colspan="4">Total Income Count</td>
-        <td>$5000</td>
-      </tr>
     </table>
-  </body>
+</body>
+
 </html>
