@@ -1,31 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
-    <form >
-        <p>
-            <label for="name">Name</label>
-            <input type="text" id="name" name="name"  value="Im a text Field"  size="10" spellcheck="true" autofocus >
-        </p>
-        <p>
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email"  placeholder="Enter Email"  size="4" autofocus maxlength="2" >
-        </p>
-        <p>
-            <label for="password">Password</label>
-            <input type="password" id="password" name="password"  >
-        </p>
+  </head>
+  <body>
+    <form>
+      <p>
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" size="10" value="I am a text field" spellcheck="true" />
+      </p>
+      <p>
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" placeholder="Enter email" autofocus="true" maxlength="2" />
+      </p>
+      <p>
+        <label>Password:</label>
+        <input type="password" id="password" name="password" />
+      </p>
 
-        <p>
-            
-            <input type="hidden" id="password" name="password" value="hidden data"  >
-        </p>
-        <button type="submit">Submit</button>
+      <input type="hidden" name="timestamp" value="hidden data" />
+
+      <fieldset>
+        <legend>Choose all the vegetable you like to eat?</legend>
+
+        <ul>
+          <li>
+            <input type="checkbox" name="vegetable" value="carrots" id="carrots" readonly />
+            <label for="carrots">Carrots</label>
+          </li>
+          <li>
+            <input type="checkbox" name="vegetable" value="peas" id="peas" checked disabled />
+            <label for="peas">Peas</label>
+          </li>
+          <li>
+            <input type="checkbox" name="vegetable" value="cabbage" id="cabbage" checked />
+            <label for="cabbage">Cabbage</label>
+          </li>
+        </ul>
+      </fieldset>
+
+      <fieldset>
+        <legend>What is your favorite meal?</legend>
+        <ul>
+          <li>
+            <input type="radio" id="soup" name="meal" value="soup" />
+            <label for="soup">Soup</label>
+          </li>
+          <li>
+            <input type="radio" id="curry" name="meal" value="curry" disabled />
+            <label for="curry">Curry</label>
+          </li>
+          <li>
+            <input type="radio" id="pizza" name="meal" value="pizza" />
+            <label for="pizza">pizza</label>
+          </li>
+        </ul>
+      </fieldset>
+
+      <button type="submit">Submit</button>
     </form>
-</body>
+  </body>
 </html>
