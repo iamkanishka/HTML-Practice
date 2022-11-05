@@ -66,3 +66,5 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 48. HTML Drop Down Select Element, option, optgroup elements and its attributes - HTML
 49. HTML5 Datalist Element and its attributes - HTML
 50. HTML5 Progress and Meter Element for visual representation of numeric values - HTML
+51. HTML5 Form Validation attributes like min, max, minlength, maxlength, pattern required - HTML
+
