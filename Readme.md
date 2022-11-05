@@ -60,3 +60,5 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 42. Checkable Input Items Checkbox , radio button and its difference - HTML
 43. Submit vs Reset vs Button in forms. Difference between input button and button element - HTML
 44. HTML5 Input Types like Email, Search, Url, Tel Attribute Input Types - HTML
+45. HTML5 input types like Number, Slider, Color and its attributes - HTML
+46. HTML5 different Date Time Input Types - HTML5
