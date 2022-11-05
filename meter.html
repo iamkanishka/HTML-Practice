@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <fieldset>
+            <legend>
+                Meter
+            </legend>
+            <p>
+                <label for="progress">Progress</label>
+                <progress id="progress" max="100" value="75">75/100</progress>
+            </p>
+            <p>
+                <label for="progress">Progress</label>
+                <meter id="meter" min="10" max="100" low="30" high="75" value="90" optimum="20" ></meter>
+            </p>
+            <p>Lower Part : Value is between min and low</p>
+            <p>medium Part : Value is between low and high</p>
+            <p>higher Part : Value is between max and high</p>
+            <p>Optimum</p>
+            <p>Optimum is lower part: lower range -> preffered medium range -> average , higher ->  worst part </p>
+        </fieldset>
+    </form>
+</body>
+</html>

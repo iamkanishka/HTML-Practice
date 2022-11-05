@@ -65,3 +65,4 @@ So We will be Looking These Angular-Unit-Testin with Jasmine and Karma   feature
 47. HTML Form Control Textarea element and its attributes - HTML
 48. HTML Drop Down Select Element, option, optgroup elements and its attributes - HTML
 49. HTML5 Datalist Element and its attributes - HTML
+50. HTML5 Progress and Meter Element for visual representation of numeric values - HTML
