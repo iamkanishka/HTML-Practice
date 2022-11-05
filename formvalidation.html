@@ -18,7 +18,7 @@
     <title>Document</title>
   </head>
   <body>
-    <form>
+    <form method="get" action="https://www.google.com" enctype="multipart/form-data" novalidate target="_blank">
         <fieldset>
             <legend>
                Form Validation
@@ -44,6 +44,11 @@
         <input type="number" id="age" name="age" min="18" max="100"  required  />
       </p>
       
+      <p>
+        <label for="file">File</label>
+
+        <input type="file">
+      </p>
       <p>
         <button>Submit</button>
       </p>
